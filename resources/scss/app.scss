@@ -1,6 +1,16 @@
 @import '~bootstrap/scss/bootstrap';
 
 
+h1{
+    text-align: center;
+    padding: 50px 0;
+}
+
 #home-container{
-    height: 800px;
+
+    padding-bottom: 200px;
+
+    h5{
+        color: rgb(225, 6, 46);
+    }
 }
